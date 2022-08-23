@@ -4,7 +4,7 @@
 #
 Name     : pypi-python_multilib
 Version  : 1.3
-Release  : 52
+Release  : 53
 URL      : https://files.pythonhosted.org/packages/7b/04/4b874882aba1fb4fe505e8d1e2b136cbd25a07944ba919d3f7ee0915851e/python-multilib-1.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/7b/04/4b874882aba1fb4fe505e8d1e2b136cbd25a07944ba919d3f7ee0915851e/python-multilib-1.3.tar.gz
 Summary  : module for determining if a package is multilib
